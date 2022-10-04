@@ -1,0 +1,71 @@
+table, h2, .focus-section, form {
+    margin: 20px;
+}
+
+th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+thead {
+    background-color: rgb(109, 206, 238);
+}
+
+.mindset {
+    background-color: rgb(250, 168, 182);
+}
+
+.behavioral_skill {
+    background-color: beige;
+}
+
+.focus-section {
+    background-color: rgb(85, 85, 226);
+    padding: 40px 0;
+}
+
+.focus-container {
+    display: flex;
+    margin: auto 0;
+}
+
+.focus-item {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(24, 231, 24);
+    list-style: none;
+    text-align: center;
+    margin-right: 40px;
+}
+
+form {
+    background-color: rgb(236, 236, 61);
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 40px;
+}
+
+button {
+    width: 150px;
+    border-radius: 10px;
+    background-color: rgb(236, 236, 61);
+    cursor: pointer;
+    transition: color 1s ease-in-out;
+}
+
+button:hover {
+    background-color: rgb(231, 156, 17);
+    color: white;
+}
+
+footer {
+    text-align: center;
+}
+
+footer img {
+    width: 100px;
+    border-radius: 100px;
+    background-color: blue;
+}
+
+
